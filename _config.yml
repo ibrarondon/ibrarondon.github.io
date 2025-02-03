@@ -1,6 +1,6 @@
 title: Ibrahim Rondon
-#logo: enlace relativo de la imagen (de mi perfil)
-description: QA Egineer
+logo: /assets/img/profilepic.jpg
+description: 📍Loja, Ecuador
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
