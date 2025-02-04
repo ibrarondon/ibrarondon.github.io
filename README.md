@@ -3,8 +3,8 @@
 ### 🔧 Habilidades: Python, Selenium, JIRA, Postman, SQL, inglés
 
 ## Formación académica 📖
-- QA Engineer | TripleTen (_Octubre 2024_)
-- Ing. Eléctrico | Universidad de Los Andes, Venezuela (_Noviembre 2018_)
+- QA Engineer | TripleTen
+- Ing. Eléctrico | Universidad de Los Andes, Venezuela
 
 ## Experiencia profesional 🔨
 **Asistente virtual @ Detroit Land Holdings LLC, remoto (_Abril 2023 - actualidad_)**
