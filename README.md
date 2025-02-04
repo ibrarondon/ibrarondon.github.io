@@ -49,11 +49,11 @@ Restful-booker es un sitio para practicar testing de APIs. Se trata en un sitio 
 ## Formación complementaria 📚
 - Inglés avanzado | CEVAM, Venezuela (_Julio 2011_)
 - CCNA Switching & Routing: introducción a redes | ESLARED, Venezuela (_Enero 2017_)
-- CCNA Switching & Routing: principios básicos de routing y switching - ESLARED, Venezuela (_Octubre 2017_)
+- CCNA Switching & Routing: principios básicos de routing y switching | ESLARED, Venezuela (_Octubre 2017_)
 - Curso de Elaboración y gerencia de proyectos | Colegio de Ingenieros del Estado Mérida, Venezuela (_Mayo 2018_)
-- Curso de Simulación de Eventos Discretos - Innovent, Venezuela (_Octubre 2018_)
-- Curso de Control Automático de Procesos Nivel 01 - Innovent, Venezuela (_Febrero 2020_)
-- Curso de Sistemas SCADA Intouch Nivel 01 - Innovent, Venezuela (_Mayo 2020_)
+- Curso de Simulación de Eventos Discretos | Innovent, Venezuela (_Octubre 2018_)
+- Curso de Control Automático de Procesos Nivel 01 | Innovent, Venezuela (_Febrero 2020_)
+- Curso de Sistemas SCADA Intouch Nivel 01 | Innovent, Venezuela (_Mayo 2020_)
 
 ## Contáctame 📨
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrarondon@gmail.com)
