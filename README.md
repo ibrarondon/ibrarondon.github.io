@@ -1,34 +1,10 @@
 # QA Engineer
 
-### 🔧 Habilidades: Python, Selenium, JIRA, Postman, SQL, inglés
+### 🔧 Habilidades: Python, Selenium, JIRA, Postman, PostgreSQL, Adobe Acrobat, Excel, Sheets, Drive, inglés avanzado.
 
 ## Formación académica 📖
 - QA Engineer - TripleTen (_Octubre 2024_)
 - Ing. Eléctrico - Universidad de Los Andes, Venezuela (_Noviembre 2018_)
-
-## Experiencia profesional 🔨
-**Asistente virtual @ Detroit Land Holdings LLC, remoto (_Abril 2023 - actualidad_)**
-- Gestión y planificación de actividades relacionadas a bienes raíces.
--	Supervisión y cumplimiento de metas y tareas.
--	Organización y gestión de documentos de inmuebles utilizando software de gestión de propiedades Buildium.
--	Mejora en la organización y accesibilidad de la información al emplear herramientas digitales para planificación y gestión.
-- **Herramientas:** MS Excel, Sheets, Drive, Adobe Acrobat, Buildium.
-
-**Gerente administrativo @ Damasco Cuenca, Ecuador (_Marzo 2021 - Enero 2024_)**
-- Gestión y control de inventarios.
--	Manejo de personal.
--	Administración del local y atención al cliente.
--	Creación de recetas únicas en el mercado, siendo pioneros en el sector gastronómico de Cuenca, Ecuador.
-- **Herramientas:** MS Excel, Sheets, Drive, Adobe Acrobat.
-
-**Auxiliar de operaciones @ Czech Brewery Pivovar LTDA, Ecuador (_Abril 2019 - Febrero 2022_)**
-- Actividades operativas y administrativas para una cervecería artesanal.
-- **Herramientas:** MS Excel, Sheets, Drive, Adobe Acrobat.
-
-**Preparador de electrónica  @ Universidad de Los Andes, Venezuela (_Marzo 2015 - Diciembre 2017_)**
-- Colaborar con el profesor en el desarrollo de las labores docentes.
--	Colaborar con el profesor en cualquier otra actividad propia del Departamento de Electrónica.
-
 
 ## Projectos ⤵️
 ### Pruebas automatizadas de UI para la aplicación web de Urban Routes
