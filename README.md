@@ -6,7 +6,7 @@
 - QA Engineer - TripleTen (_Octubre 2024_)
 - Ing. Eléctrico - Universidad de Los Andes, Venezuela (_Noviembre 2018_)
 
-## Projectos ⤵️
+## Proyectos ⤵️
 ### Pruebas automatizadas de UI para la aplicación web de Urban Routes
 [Repositorio Github](https://github.com/ibrarondon/Pruebas-de-UI-para-Urban-Routes)
 
