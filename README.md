@@ -7,20 +7,27 @@
 - Ing. Eléctrico - Universidad de Los Andes, Venezuela (_Noviembre 2018_)
 
 ## Proyectos ⤵️
-### Pruebas automatizadas de UI para la aplicación web de Urban Routes
-[Repositorio Github](https://github.com/ibrarondon/Pruebas-de-UI-para-Urban-Routes)
 
-Urban Routes es una proveedora de movilidad con diversas opciones de transporte. Desarrollé pruebas automatizadas de UI para la solicitud de taxi de categoría "Comfort" haciendo uso de **Selenium WebDriver con Python y POM**. Las características a probarse fueron: configuración de ruta, selección de tarifa "Comfort", agregar número de teléfono, agregar tarjeta de crédito, escribir un mensaje para el taxista, pedir manta y pañuelos, pedir 2 helados, verificación de solicitud de taxi y verificación de información del taxista. Los reportes de errores los realicé a través de **JIRA**.
+### Pruebas automatizadas de UI para [UI Testing Playground](http://uitestingplayground.com/)
+[Repositorio Github](https://github.com/ibrarondon/Pruebas-automatizadas-para-UITestingPlayground)
 
-### Pruebas para el parámetro "name" al crear un kit para un usuario de Urban Grocers
-[Repositorio Github](https://github.com/ibrarondon/Pruebas-para-crear-un-kit-Urban-Grocers)
-
-Urban Grocers es una tienda por departamentos que ofrece entregas a domicilio. Desarrollé pruebas manuales con **Postman** y pruebas automatizadas con **Python** para la creación de kits de un usuario haciendo uso de las APIs de Urban Grocers. Los reportes de errores los realicé a través de **JIRA**.
+**UI Test Automation Playground** es una plataforma para practicar habilidades de pruebas automatizadas de interfaz de usuario. Desarrollé **pruebas automatizadas de UI** para interactuar con alertas, elementos dinámicos, elementos estáticos, elementos en **Shadow DOM**, elementos en iFrames, botones, entradas de texto, carga de archivos, desplazamientos en página web y uso del teclado. Las pruebas fueron desarrolladas haciendo uso de **Selenium WebDriver con Python y POM** para el navegador Google Chrome. Los reportes de errores los realicé a través de **JIRA**.
 
 ### Pruebas automatizadas para APIs de [Restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
 [Repositorio Github](https://github.com/ibrarondon/Pruebas-automatizadas-para-APIs-de-Restful-booker)
 
-Restful-booker es un sitio para practicar testing de APIs. Se trata en un sitio de reservaciones en el que desarrollé pruebas manuales con **Postman** y pruebas automatizadas con **Python** para verificar el funcionamiento de las APIs haciendo uso de los métodos **HTTP: GET, POST, UPDATE y DELETE**. Los reportes de errores los realicé a través de **JIRA**.
+**Restful-booker** es un sitio para practicar testing de APIs. Se trata en un sitio de reservaciones en el que desarrollé pruebas manuales con **Postman** y pruebas automatizadas con **Python** para verificar el funcionamiento de las APIs haciendo uso de los métodos **HTTP: GET, POST, UPDATE y DELETE**. Los reportes de errores los realicé a través de **JIRA**.
+
+### Pruebas automatizadas de UI para la aplicación web de Urban Routes
+[Repositorio Github](https://github.com/ibrarondon/Pruebas-de-UI-para-Urban-Routes)
+
+**Urban Routes** es una proveedora de movilidad con diversas opciones de transporte. Desarrollé pruebas automatizadas de UI para la solicitud de taxi de categoría "Comfort" haciendo uso de **Selenium WebDriver con Python y POM**. Las características a probarse fueron: configuración de ruta, selección de tarifa "Comfort", agregar número de teléfono, agregar tarjeta de crédito, escribir un mensaje para el taxista, pedir manta y pañuelos, pedir 2 helados, verificación de solicitud de taxi y verificación de información del taxista. Los reportes de errores los realicé a través de **JIRA**.
+
+### Pruebas para el parámetro "name" al crear un kit para un usuario de Urban Grocers
+[Repositorio Github](https://github.com/ibrarondon/Pruebas-para-crear-un-kit-Urban-Grocers)
+
+**Urban Grocers** es una tienda por departamentos que ofrece entregas a domicilio. Desarrollé pruebas manuales con **Postman** y pruebas automatizadas con **Python** para la creación de kits de un usuario haciendo uso de las APIs de Urban Grocers. Los reportes de errores los realicé a través de **JIRA**.
+
 
 ## Formación complementaria 📚
 - Inglés avanzado | CEVAM, Venezuela (_Julio 2011_)
