@@ -8,7 +8,7 @@
 
 ## Proyectos ⤵️
 
-### Parkify - Igrowker Training (Abril 2025 - Actualidad)
+### Parkify - Igrowker Training (Abril 2025)
 [Repositorio Github](https://github.com/ibrarondon/Parkify)
 
 **Parkify** es una webapp que conecta conductores con estacionamientos privados en tiempo real, facilitando la búsqueda y reserva de plazas disponibles mediante geolocalización y un mapa interactivo. Me involucré con distintos **stakeholders** en el **desarrollo ágil de 4 semanas** para asegurar que el usuario final consiguiera una solución adecuada. Creé un **plan de pruebas** para Parkify junto al equipo de QA donde contemplamos **pruebas manuales** para funcionalidades críticas como: registro de usuarios, registro y modificación de estacionamientos, búsqueda y filtrado de estacionamientos, consiguiendo una cobertura del 100% para el desarrollo de nuestro **MVP**. Diseñé y ejecuté **pruebas funcionales, pruebas de caja negra con análisis de valor frontera, pruebas exploratorias, pruebas de regresión y pruebas de aceptación del usuario**, consiguiendo una tasa de defectos del 75% previo al lanzamiento del MVP. Parkify fue parte de un entrenamiento pero sigue siendo desarrollada.
